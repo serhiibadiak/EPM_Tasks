@@ -1,0 +1,9 @@
+D:\Epam\if-master\Condition\bin\Debug\netcoreapp3.1\Condition.deps.json
+D:\Epam\if-master\Condition\bin\Debug\netcoreapp3.1\Condition.dll
+D:\Epam\if-master\Condition\bin\Debug\netcoreapp3.1\Condition.pdb
+D:\Epam\if-master\Condition\obj\Debug\netcoreapp3.1\Condition.csprojAssemblyReference.cache
+D:\Epam\if-master\Condition\obj\Debug\netcoreapp3.1\Condition.AssemblyInfoInputs.cache
+D:\Epam\if-master\Condition\obj\Debug\netcoreapp3.1\Condition.AssemblyInfo.cs
+D:\Epam\if-master\Condition\obj\Debug\netcoreapp3.1\Condition.csproj.CoreCompileInputs.cache
+D:\Epam\if-master\Condition\obj\Debug\netcoreapp3.1\Condition.dll
+D:\Epam\if-master\Condition\obj\Debug\netcoreapp3.1\Condition.pdb
