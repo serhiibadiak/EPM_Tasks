@@ -1,0 +1,9 @@
+D:\Epam\loop3-master\LoopTasks\bin\Debug\netcoreapp3.1\LoopTasks.deps.json
+D:\Epam\loop3-master\LoopTasks\bin\Debug\netcoreapp3.1\LoopTasks.dll
+D:\Epam\loop3-master\LoopTasks\bin\Debug\netcoreapp3.1\LoopTasks.pdb
+D:\Epam\loop3-master\LoopTasks\obj\Debug\netcoreapp3.1\LoopTasks.csprojAssemblyReference.cache
+D:\Epam\loop3-master\LoopTasks\obj\Debug\netcoreapp3.1\LoopTasks.AssemblyInfoInputs.cache
+D:\Epam\loop3-master\LoopTasks\obj\Debug\netcoreapp3.1\LoopTasks.AssemblyInfo.cs
+D:\Epam\loop3-master\LoopTasks\obj\Debug\netcoreapp3.1\LoopTasks.csproj.CoreCompileInputs.cache
+D:\Epam\loop3-master\LoopTasks\obj\Debug\netcoreapp3.1\LoopTasks.dll
+D:\Epam\loop3-master\LoopTasks\obj\Debug\netcoreapp3.1\LoopTasks.pdb
